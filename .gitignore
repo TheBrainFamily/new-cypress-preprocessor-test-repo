@@ -1,0 +1,11 @@
+**/*.js
+**/*.d.ts
+
+# Temporary directory for test execution
+tmp/
+
+node_modules
+.idea
+
+cypress/screenshots
+cypress/videos

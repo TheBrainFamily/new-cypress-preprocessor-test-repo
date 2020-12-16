@@ -1,0 +1,11 @@
+{
+  "name": "new-cypress-preprocessor-test-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lgandecki <lgandecki@css.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^2.2.0",
+    "cypress": "^6.1.0"
+  }
+}
